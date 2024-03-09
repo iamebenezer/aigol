@@ -15,9 +15,9 @@
     --e-global-typography-accent-font-family: "Roboto";
     --e-global-typography-accent-font-size: 16px;
     --e-global-typography-accent-font-weight: 400;
-    /* background-image: linear-gradient(to right top, #580104, #45050d, #31090f, #1f060b, #000000); */
-    background-image: linear-gradient(to right top, #5f0000, #69001b, #690037, #580059, #1b077c);
-    }
+    background-image: linear-gradient(to right top, #580104, #45050d, #31090f, #1f060b, #000000);
+
+}
 
 .elementor-section.elementor-section-boxed>.elementor-container {
     max-width: 1140px;
